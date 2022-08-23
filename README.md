@@ -2,7 +2,7 @@
 ##### Mobile App Developer - Android
 I love to solve problems using technology that improves user’s life on a major scale. Over the last several years, I have been developing various mobile apps in different areas.
 
-Skills: Kotlin / Java / Android / Dart / Flutter 
+Skills: Kotlin / Java / Android
 
 - 🔭 I’m currently working at Bdtask Ltd 
 
