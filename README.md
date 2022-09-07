@@ -1,4 +1,4 @@
-### Hi, I am Md Daud Hoshen Rimon
+### Hi, Iam Daud Hoshen Rimon
 ##### Mobile App Developer - Android
 I love to solve problems using technology that improves user’s life on a major scale. Over the last several years, I have been developing various mobile apps in different areas.
 
