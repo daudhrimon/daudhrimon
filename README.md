@@ -1,10 +1,10 @@
-### Hi, Iam Daud Hoshen Rimon
+### Hi, I am Daud Hoshen Rimon
 ##### Mobile Application Developer - Android
 I love to solve problems using technology that improves user’s life on a major scale. Over the last several years, I have been developing various mobile apps in different areas.
 
 Skills: Kotlin / Java / Android
 
-- 🔭 I’m currently working at Bdtask Ltd 
+- 🔭 I’m currently working on ST Wallet and its a product of Share Trip 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/daudhrimon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/daud-hoshen-rimon-a526191a0/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/daudhrimon) 
 
