@@ -2,7 +2,7 @@
 ##### Mobile Application Developer - Android
 I love to solve problems using technology that improves user’s life on a major scale. Over the last several years, I have been developing various mobile apps in different areas.
 
-Skills: Kotlin / Java / Android
+Skills: Kotlin / Java / Android / MVVM / Jetpack-Compose / Android Library
 
 - 🔭 I’m currently working on ST Wallet and its a product of Share Trip 
 
