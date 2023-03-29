@@ -1,5 +1,5 @@
 ### Hi, I am Daud Hoshen Rimon
-##### Mobile Application Developer - Android
+##### Mobile Application Developer - Native Android
 I love to solve problems using technology that improves user’s life on a major scale. Over the last several years, I have been developing various mobile apps in different areas.
 
 Skills: Kotlin / Java / Android / MVVM / Jetpack-Compose / Android Library
