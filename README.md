@@ -12,6 +12,4 @@ Skills: Kotlin / Java / Android / MVVM / Jetpack-Compose / Android Library
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daudhrimon)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=daudhrimon)  
-
-![Profile views](https://www.linkedin.com/in/daud-hoshen-rimon-a526191a0/)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=daudhrimon)
