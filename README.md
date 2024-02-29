@@ -14,4 +14,4 @@ Skills: Kotlin / Java / Android / MVVM / Jetpack-Compose / Android Library
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=daudhrimon)  
 
-![Profile views](https://gpvc.arturio.dev/daudhrimon)
+![Profile views](https://www.linkedin.com/in/daud-hoshen-rimon-a526191a0/)
